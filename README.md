@@ -23,7 +23,7 @@ By identifying a unified, data-centric philosophy underlying augmentation method
 ## Existing Surveys on Data Augmentation
 
 | Year | Title | Venue | Modality | Paper |
-|----------|----------|----------|----------|----------|
+|:--------:|----------|----------|:--------:|:--------:|
 |2018|Data Augmentation for Improving Deep Learning in Image Classification Problem|International Interdisciplinary PhD Workshop (IIPhDW)|Image|[Link](https://ieeexplore.ieee.org/document/8388338)|
 |2019|A Survey on Image Data Augmentation for Deep Learning|Journal of Big Data|Imgae|[Link](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0)|
 |          |          |          |          |          |
@@ -31,3 +31,17 @@ By identifying a unified, data-centric philosophy underlying augmentation method
 ## The Proposed Taxonomy
 
 ![taxonomy](./assets/taxonomy.png)
+
+## Data Augmentation Literature
+
+### Single-instance Level Data Augmentation
+
+#### Value-based Transformation
+
+#### Structure-based Transformation
+
+#### Value-structure Transformation
+
+| Name | Year | Venue | Paper | Code | Modality |
+|------|:----:|:-----:|:-----:|:----:|:--------:|
+|Diversity-oriented data augmentation with large language models|2025|ACL|[Link](https://aclanthology.org/2025.acl-long.1084/)|[Link](https://github.com/CNICDS/DoAug)|Text|
