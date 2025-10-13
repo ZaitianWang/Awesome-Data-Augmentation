@@ -38,10 +38,50 @@ By identifying a unified, data-centric philosophy underlying augmentation method
 
 #### Value-based Transformation
 
+| Name | Year | Venue | Paper | Code | Modality |
+|------|:----:|:-----:|:-----:|:----:|:--------:|
+|Improved regularization of convolutional neural networks with cutout|2017|arXiv|[Link](https://arxiv.org/abs/1708.04552)|[Link](https://github.com/uoguelph-mlrg/Cutout)|Image
+
 #### Structure-based Transformation
+
+| Name | Year | Venue | Paper | Code | Modality |
+|------|:----:|:-----:|:-----:|:----:|:--------:|
+|Automatic image cropping for mobile device with built-in camera|2004|CCNC|[Link](https://ieeexplore.ieee.org/abstract/document/1286964)||Image|
 
 #### Value-structure Transformation
 
 | Name | Year | Venue | Paper | Code | Modality |
 |------|:----:|:-----:|:-----:|:----:|:--------:|
 |Diversity-oriented data augmentation with large language models|2025|ACL|[Link](https://aclanthology.org/2025.acl-long.1084/)|[Link](https://github.com/CNICDS/DoAug)|Text|
+
+### Multi-instance Level Data Augmentation
+
+#### Value-based Mixture
+
+| Name | Year | Venue | Paper | Code | Modality |
+|------|:----:|:-----:|:-----:|:----:|:--------:|
+|mixup: Beyond empirical risk minimization|2018|ICLR|[Link](https://openreview.net/forum?id=r1Ddp1-Rb)|[Link](https://github.com/facebookresearch/mixup-cifar10)|Image,Tabular|
+
+#### Structure-based Combination
+
+| Name | Year | Venue | Paper | Code | Modality |
+|------|:----:|:-----:|:-----:|:----:|:--------:|
+|Data augmentation using random image cropping and patching for deep CNNs|2019|TCSVT|[Link](https://ieeexplore.ieee.org/abstract/document/8795523)|[Link](https://github.com/jackryo/ricap)|Image|
+
+#### Value-structure Mixture
+
+| Name | Year | Venue | Paper | Code | Modality |
+|------|:----:|:-----:|:-----:|:----:|:--------:|
+|Automix: Unveiling the power of mixup for stronger classifiers|2022|ECCV|[Link](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_26)|[Link](https://github.com/Westlake-AI/openmixup)|Image|
+
+### Dataset Level Data Augmentation
+
+#### Vanilla Generation
+
+| Name | Year | Venue | Paper | Code | Modality |
+|------|:----:|:-----:|:-----:|:----:|:--------:|
+
+#### Exogenous Generation
+
+| Name | Year | Venue | Paper | Code | Modality |
+|------|:----:|:-----:|:-----:|:----:|:--------:|
