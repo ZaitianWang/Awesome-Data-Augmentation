@@ -80,8 +80,10 @@ By identifying a unified, data-centric philosophy underlying augmentation method
 
 | Name | Year | Venue | Paper | Code | Modality |
 |------|:----:|:-----:|:-----:|:----:|:--------:|
+|Deep learning with small datasets: using autoencoders to address limited datasets in construction management|2021|Applied Soft Computing|[Link](https://www.sciencedirect.com/science/article/abs/pii/S1568494621007584)||Tabular|
 
 #### Exogenous Generation
 
 | Name | Year | Venue | Paper | Code | Modality |
 |------|:----:|:-----:|:-----:|:----:|:--------:|
+|Image style transfer using convolutional neural networks|2016|CVPR|[Link](https://ieeexplore.ieee.org/document/7780634)||Image|
