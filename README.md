@@ -1,7 +1,7 @@
 # Awesome-Data-Augmentation
 
-[![arXiv](https://img.shields.io/badge/preprint-arXiv-b31b1b)](https://arxiv.org/abs/2405.09591) 
-[![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-TKDE-006699)](https://ieeexplore.ieee.org/document/11205970)
+[![arXiv](https://img.shields.io/badge/arXiv-2405.09591-b31b1b)](https://arxiv.org/abs/2405.09591) 
+[![IEEE Xplore](https://img.shields.io/badge/TKDE-2025-006699)](https://ieeexplore.ieee.org/document/11205970)
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTKDE.2025.3622600-FAB608)](https://ieeexplore.ieee.org/document/11205970)
 
 This is the repo of "A Comprehensive Survey on Data Augmentation"
